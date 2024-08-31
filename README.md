@@ -3,7 +3,7 @@
 
 <!-- Title and Introduction -->
 <h1 align="center">Hi 👋, I'm Mariam El-sarag</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">MERN stack Developer</h3>
 
 <!-- Social Links -->
 <p align="center">
