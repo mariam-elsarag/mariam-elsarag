@@ -25,6 +25,7 @@
         <td><img src="./icons/CSS.svg" width="48" /></td>
         <td><img src="./icons/JavaScript.svg" width="48" /></td>
         <td><img src="./icons/Bootstrap.svg" width="48" /></td>
+        <td><img src="./icons/Vite-Dark.svg" width="48" /></td>
     </tr>
 </table>
 <h3>Backend:</h3>
@@ -33,9 +34,22 @@
         <td><img src="./icons/NodeJS-Dark.svg" width="48" /></td>
         <td><img src="./icons/ExpressJS-Dark.svg" width="48" /></td>
         <td><img src="./icons/MongoDB.svg" width="48" /></td>  
-        <td><img src="./icons/Postman.svg" width="48" /></td>  
     </tr>
-
+</table>
+<h3>Tools:</h3>
+<table>
+    <tr>
+        <td><img src="./icons/Figma-Dark.svg" width="48" /></td>
+        <td><img src="./icons/Postman.svg" width="48" /></td>  
+        <td><img src="./icons/VSCode-Dark.svg" width="48" /></td>  
+        <td><img src="./icons/CodePen-Dark.svg" width="48" /></td>  
+    </tr>
+</table>
+<h3>Basic Knowledge:</h3>
+<table>
+    <tr>
+        <td><img src="./icons/CPP.svg" width="48" /></td>
+    </tr>
 </table>
 
 <!-- GitHub Analytics Section -->
