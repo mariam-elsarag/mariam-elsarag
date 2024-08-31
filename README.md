@@ -28,15 +28,27 @@
         <td><img src="./icons/ExpressJS-Dark.svg" width="48" /></td>
     </tr>
     <tr>
-        <td>Redux</td>
+        <td><img src="./icons/Redux.svg" width="48" /></td>
         <td><img src="./icons/MongoDB.svg" width="48" /></td>
     </tr>
     <tr>
-        <td>Sass</td>
+        <td><img src="./icons/Sass.svg" width="48" /></td>
         <td></td>
     </tr>
     <tr>
-        <td>PrimeReact</td>
+        <td><img src="./icons/HTML.svg" width="48" /></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><img src="./icons/CSS.svg" width="48" /></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><img src="./icons/JavaScript.svg" width="48" /></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><img src="./icons/Bootstrap.svg" width="48" /></td>
         <td></td>
     </tr>
 </table>
