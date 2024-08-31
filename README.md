@@ -14,42 +14,49 @@
 
 <!-- Tools and Technologies Section -->
 <h2>🎓 Tools and Technologies:</h2>
+<h3>Frontend:</h3>
 <table>
     <tr>
         <th>Frontend</th>
-        <th>Backend</th>
     </tr>
     <tr>
         <td><img src="./icons/React-Dark.svg" width="48" /></td>
-        <td><img src="./icons/NodeJS-Dark.svg" width="48" /></td>
     </tr>
     <tr>
         <td><img src="./icons/TailwindCSS-Dark.svg" width="48" /></td>
-        <td><img src="./icons/ExpressJS-Dark.svg" width="48" /></td>
     </tr>
     <tr>
         <td><img src="./icons/Redux.svg" width="48" /></td>
-        <td><img src="./icons/MongoDB.svg" width="48" /></td>
     </tr>
     <tr>
         <td><img src="./icons/Sass.svg" width="48" /></td>
-        <td></td>
     </tr>
     <tr>
         <td><img src="./icons/HTML.svg" width="48" /></td>
-        <td></td>
     </tr>
     <tr>
         <td><img src="./icons/CSS.svg" width="48" /></td>
-        <td></td>
     </tr>
     <tr>
         <td><img src="./icons/JavaScript.svg" width="48" /></td>
-        <td></td>
     </tr>
     <tr>
         <td><img src="./icons/Bootstrap.svg" width="48" /></td>
-        <td></td>
+    </tr>
+</table>
+<h3>Backend:</h3>
+<table>
+    <tr>
+        <th>Backend</th>
+    </tr>
+    <tr>
+        <td><img src="./icons/NodeJS-Dark.svg" width="48" /></td>
+    </tr>
+    <tr>
+        <td><img src="./icons/ExpressJS-Dark.svg" width="48" /></td>
+    </tr>
+    <tr>
+        <td><img src="./icons/MongoDB.svg" width="48" /></td>
     </tr>
 </table>
 
