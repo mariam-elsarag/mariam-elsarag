@@ -55,7 +55,7 @@
 <!-- GitHub Analytics Section -->
 <h2>⚙️ GitHub Analytics:</h2>
 <p align="center">
-    <a href="https://github.com/Mariamtarek514">
+    <a href="https://github.com/mariam-elsarag">
         <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mariam-elsarag&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" />
         <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mariam-elsarag&theme=dark&layout=compact&langs_count=10&hide_border=false" />
     </a>
