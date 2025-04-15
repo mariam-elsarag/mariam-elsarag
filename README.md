@@ -6,7 +6,7 @@
 
 <!-- Social Links -->
 <p align="center">
-    <a href="https://linkedin.com/in/mariam-elsarag" target="_blank">
+    <a href="https://linkedin.com/in/mariamelsarag" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mariam El-sarag LinkedIn" height="30" width="40" />
     </a>
 </p>
