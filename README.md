@@ -38,7 +38,6 @@
 <h3>Tools:</h3>
 <table>
     <tr>
-       
         <td><img src="./icons/Figma-Dark.svg" width="48" /></td>
         <td><img src="./icons/Postman.svg" width="48" /></td>  
         <td><img src="./icons/VSCode-Dark.svg" width="48" /></td>  
