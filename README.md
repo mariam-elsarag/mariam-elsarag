@@ -38,6 +38,7 @@
 <h3>Tools:</h3>
 <table>
     <tr>
+        <td> <img src="https://www.svgrepo.com/show/373872/nestjs.svg" alt="NestJS" width="48"/></td>
         <td><img src="./icons/Figma-Dark.svg" width="48" /></td>
         <td><img src="./icons/Postman.svg" width="48" /></td>  
         <td><img src="./icons/VSCode-Dark.svg" width="48" /></td>  
