@@ -23,23 +23,28 @@
     <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariam-elsarag" alt="mariam-elsarag" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=mariam-elsarag" alt="mariam-elsarag" /> </p>
 </div>
 
 <br/>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
-<p >
-  A passionate <b>MERN Stack Developer</b> who loves building full-stack apps,<br />
-  solving problems, and constantly learning new technologies.
+<p>
+  👋 I'm a passionate <b>MERN Stack Developer</b> with a strong focus on clean code, scalability, and performance.<br/>
+  🚀 I love turning complex problems into elegant full-stack solutions, whether it's building real-time apps, custom dashboards, or intelligent interfaces.<br/>
+  🧠 I'm constantly exploring new technologies like <b>Nest.js</b>, <b>Next.js</b>, and <b>SQL</b>.<br/>
+  🎯 My goal is to keep learning, building, and helping others in the dev community.
 </p>
 
 <!-- Tools and Technologies Section -->
 
 ## 🚀 Tools & Technologies
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 40px/> </picture> Frontend
+<div align="left" style="display: flex; align-items: center; gap: 8px;">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="40px" />
+  <h3 style="margin: 0;">Frontend</h3>
+</div>
 
 <p>
   <img src="./icons/React-Dark.svg" width="40" />
