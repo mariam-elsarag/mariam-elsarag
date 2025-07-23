@@ -2,6 +2,7 @@
 
 <!-- Title and Introduction -->
 
+<div align="center" >
 <h3 align="center">
   Hi, I'm Mariam El-sarag
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -11,13 +12,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+stack+Developer;Always+learning+new+things;Feel+free+to+look+around+👀;Reach+out+if+you+need+help!+💬&font=Fira+Code&center=true&width=440&height=45&color=7A7ADB" />
   </a>
 </p>
-
-  <h2>
-    <picture>
-      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px" />
-    </picture>
-    Connect with me
-  </h2>
 
   <!-- LinkedIn Badge -->
   <a href="https://linkedin.com/in/mariamelsarag" target="_blank">
@@ -30,8 +24,9 @@
   </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariam-elsarag" alt="mariam-elsarag" /> </p>
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
