@@ -80,7 +80,7 @@
 ### 🧩 Other Knowledge
 
 <p>
-  <img src="./icons/CPP.svg" width="40" />
+  <img src="./assets/icons/CPP.svg" width="40" />
 </p>
 
 ---
