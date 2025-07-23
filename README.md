@@ -41,7 +41,7 @@
 
 ## 🚀 Tools & Technologies
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px> </picture> Frontend
+### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRsZnluZTZqOWZpa3Vhd2dpcnZnam12MDR0eXMwcGFlcDM3ZGJlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2C6v4QD5d3YOO4YhID/giphy.gif" width = 50px> </picture> Frontend
 
 <div>
   <img src="./icons/React-Dark.svg" width="40" />
@@ -55,7 +55,7 @@
   <img src="./icons/Vite-Dark.svg" width="40" />
 </div>
 
-### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmh1b21jN3Fwcnc3anltdm91dDN0NW8zYmg0NHJjZmxhdWx6Z3NhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif?raw=true" width = 50px> </picture> Backend
+### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2MzZW5kbzUwcXRjZDF2dzY1bTg2MHd2NGl1bjJkMG9pcXl0cmtpeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif?raw=true" width = 50px> </picture> Backend
 
 <p>
   <img src="https://www.svgrepo.com/show/373872/nestjs.svg" width="40" />
@@ -66,7 +66,7 @@
 
 ---
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px> </picture> Tools
+### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJuOGN3bnc5dHNsdDM1MG9jMXFteGV4YnB6NnhycXZmNXIyNzF4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width = 50px> </picture> Tools
 
 <p>
   <img src="./icons/Figma-Dark.svg" width="40" />
@@ -76,14 +76,6 @@
 </p>
 
 ---
-
-### 🧩 Other Knowledge
-
-<p>
-  <img src="./icons/CPP.svg" width="40" />
-</p>
-
-</br>
 
 <!-- GitHub Analytics Section -->
 
