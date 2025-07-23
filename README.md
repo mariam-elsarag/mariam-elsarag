@@ -1,6 +1,7 @@
 <!-- Banner -->
 
 <!-- Title and Introduction -->
+
 <h3 align="center">
   Hi, I'm Mariam El-sarag
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -10,27 +11,35 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+stack+Developer;Always+learning+new+things;Feel+free+to+look+around+👀;Reach+out+if+you+need+help!+💬&font=Fira+Code&center=true&width=440&height=45&color=7A7ADB" />
   </a>
 </p>
+
+<div align="center">
+  <h2>
+    <picture>
+      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px" />
+    </picture>
+    Connect with me
+  </h2>
+
+  <!-- LinkedIn Badge -->
+  <a href="https://linkedin.com/in/mariamelsarag" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-405DE6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <!-- Gmail Badge -->
+  <a href="mailto:mariamelsarag44@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariam-elsarag" alt="mariam-elsarag" /> </p>
---- 
+
+<br/>
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <p align="center">
   A passionate <b>MERN Stack Developer</b> who loves building full-stack apps,<br />
   solving problems, and constantly learning new technologies.
-</p>
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/mariamelsarag" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:mariamelsarag44@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
-  </a>
 </p>
 
 <!-- Tools and Technologies Section -->
@@ -60,7 +69,7 @@
   <img src="./icons/MongoDB.svg" width="40" />
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px> Tools
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px> </picture> Tools
 
 <p>
   <img src="./icons/Figma-Dark.svg" width="40" />
