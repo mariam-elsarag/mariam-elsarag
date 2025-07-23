@@ -41,22 +41,25 @@
 
 ## 🚀 Tools & Technologies
 
-<div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
- <h3>
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="40px" />
-  <span >Frontend</span>
- </h3>
-<p>
-  <img src="./icons/React-Dark.svg" width="40" />
-  <img src="./icons/TailwindCSS-Dark.svg" width="40" />
-  <img src="./icons/Redux.svg" width="40" />
-  <img src="./icons/Sass.svg" width="40" />
-  <img src="./icons/HTML.svg" width="40" />
-  <img src="./icons/CSS.svg" width="40" />
-  <img src="./icons/JavaScript.svg" width="40" />
-  <img src="./icons/Bootstrap.svg" width="40" />
-  <img src="./icons/Vite-Dark.svg" width="40" />
-</p>
+<div style="display: flex; align-items: center; gap: 16px; flex-wrap: wrap; margin-bottom: 12px;">
+  <!-- Icon + Title -->
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="40px" />
+    <h3 style="margin: 0;">Frontend</h3>
+  </div>
+
+  <!-- Tech Icons -->
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <img src="./icons/React-Dark.svg" width="40" />
+    <img src="./icons/TailwindCSS-Dark.svg" width="40" />
+    <img src="./icons/Redux.svg" width="40" />
+    <img src="./icons/Sass.svg" width="40" />
+    <img src="./icons/HTML.svg" width="40" />
+    <img src="./icons/CSS.svg" width="40" />
+    <img src="./icons/JavaScript.svg" width="40" />
+    <img src="./icons/Bootstrap.svg" width="40" />
+    <img src="./icons/Vite-Dark.svg" width="40" />
+  </div>
 </div>
 
 ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmh1b21jN3Fwcnc3anltdm91dDN0NW8zYmg0NHJjZmxhdWx6Z3NhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif?raw=true" width = 50px> </picture> Backend
