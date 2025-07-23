@@ -43,6 +43,9 @@
 
 ### 💻 Frontend
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,redux,sass,html,css,js,bootstrap,vite,ts,pr" />
+</p>
 <div>
   <img src="./assets/icons/React-Dark.svg" width="40" />
   <img src="./assets/icons/TailwindCSS-Dark.svg" width="40" />
