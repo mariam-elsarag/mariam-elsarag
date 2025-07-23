@@ -41,14 +41,15 @@
 
 ## 🚀 Tools & Technologies
 
-<div align="left" style="display: flex; align-items: center; gap:16px;">
+<div align="left" >
  <h3>
   <picture>
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="40px" />
   </picture>
-  <b>Frontend</b>
+  <b >Frontend</b>
  </h3>
 
+<div >
 &nbsp;&nbsp;
 <img src="./icons/React-Dark.svg" width="30" title="React" />
 &nbsp;
@@ -67,6 +68,7 @@
 <img src="./icons/Bootstrap.svg" width="30" title="Bootstrap" />
 &nbsp;
 <img src="./icons/Vite-Dark.svg" width="30" title="Vite" />
+</div>
 
 </div>
 
