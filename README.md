@@ -63,8 +63,8 @@
 
 ### 🧩 Other Knowledge
 
-<p>
-  <img src="./assets/icons/CPP.svg" width="40" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp" />
 </p>
 
 ---
