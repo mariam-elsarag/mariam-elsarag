@@ -41,9 +41,9 @@
 
 ## 🚀 Tools & Technologies
 
-<div align="left" style="display: flex; align-items: center; gap: 8px;">
+<div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="40px" />
-  <h3 style="margin: 0;">Frontend</h3>
+  <span style="font-size: 1.25rem; font-weight: 600;">Frontend</span>
 </div>
 
 <p>
