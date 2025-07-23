@@ -31,11 +31,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariam-elsarag" alt="mariam-elsarag" /> </p>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<p align="center">
+<p >
   A passionate <b>MERN Stack Developer</b> who loves building full-stack apps,<br />
   solving problems, and constantly learning new technologies.
 </p>
@@ -44,7 +44,7 @@
 
 ## 🚀 Tools & Technologies
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px> </picture> Frontend
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 40px/> </picture> Frontend
 
 <p>
   <img src="./icons/React-Dark.svg" width="40" />
@@ -57,7 +57,7 @@
   <img src="./icons/Bootstrap.svg" width="40" />
   <img src="./icons/Vite-Dark.svg" width="40" />
 </p>
-</br>
+
 ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmh1b21jN3Fwcnc3anltdm91dDN0NW8zYmg0NHJjZmxhdWx6Z3NhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif?raw=true" width = 50px> </picture> Backend
 
 <p>
@@ -67,7 +67,8 @@
   <img src="./icons/MongoDB.svg" width="40" />
 </p>
 
-</br>
+---
+
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px> </picture> Tools
 
 <p>
@@ -76,7 +77,8 @@
   <img src="./icons/VSCode-Dark.svg" width="40" />
 
 </p>
-</br>
+
+---
 
 ### 🧩 Other Knowledge
 
