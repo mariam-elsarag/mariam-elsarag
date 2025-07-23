@@ -28,7 +28,7 @@
 
 <br/>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+## <picture><img src="./assets/gif/about_me.gif" width="50px"></picture> About Me
 
 <p>
   👋 I'm a passionate <b>MERN Stack Developer</b> with a strong focus on clean code, scalability, and performance.<br/>
@@ -39,40 +39,48 @@
 
 <!-- Tools and Technologies Section -->
 
-## 🚀 Tools & Technologies
+## <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2MzZW5kbzUwcXRjZDF2dzY1bTg2MHd2NGl1bjJkMG9pcXl0cmtpeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" width = 50px> </picture> Tools & Technologies
 
-### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRsZnluZTZqOWZpa3Vhd2dpcnZnam12MDR0eXMwcGFlcDM3ZGJlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2C6v4QD5d3YOO4YhID/giphy.gif" width = 50px> </picture> Frontend
+### 💻 Frontend
 
 <div>
-  <img src="./icons/React-Dark.svg" width="40" />
-  <img src="./icons/TailwindCSS-Dark.svg" width="40" />
-  <img src="./icons/Redux.svg" width="40" />
-  <img src="./icons/Sass.svg" width="40" />
-  <img src="./icons/HTML.svg" width="40" />
-  <img src="./icons/CSS.svg" width="40" />
-  <img src="./icons/JavaScript.svg" width="40" />
-  <img src="./icons/Bootstrap.svg" width="40" />
-  <img src="./icons/Vite-Dark.svg" width="40" />
+  <img src="./assets/icons/React-Dark.svg" width="40" />
+  <img src="./assets/icons/TailwindCSS-Dark.svg" width="40" />
+  <img src="./assets/icons/Redux.svg" width="40" />
+  <img src="./assets/icons/Sass.svg" width="40" />
+  <img src="./assets/icons/HTML.svg" width="40" />
+  <img src="./assets/icons/CSS.svg" width="40" />
+  <img src="./assets/icons/JavaScript.svg" width="40" />
+  <img src="./assets/icons/Bootstrap.svg" width="40" />
+  <img src="./assets/icons/Vite-Dark.svg" width="40" />
 </div>
 
-### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2MzZW5kbzUwcXRjZDF2dzY1bTg2MHd2NGl1bjJkMG9pcXl0cmtpeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif?raw=true" width = 50px> </picture> Backend
+### 🧠 Backend
 
 <p>
   <img src="https://www.svgrepo.com/show/373872/nestjs.svg" width="40" />
-  <img src="./icons/NodeJS-Dark.svg" width="40" />
-  <img src="./icons/ExpressJS-Dark.svg" width="40" />
-  <img src="./icons/MongoDB.svg" width="40" />
+  <img src="./assets/icons/NodeJS-Dark.svg" width="40" />
+  <img src="./assets/icons/ExpressJS-Dark.svg" width="40" />
+  <img src="./assets/icons/MongoDB.svg" width="40" />
 </p>
 
 ---
 
-### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJuOGN3bnc5dHNsdDM1MG9jMXFteGV4YnB6NnhycXZmNXIyNzF4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width = 50px> </picture> Tools
+<!-- ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJuOGN3bnc5dHNsdDM1MG9jMXFteGV4YnB6NnhycXZmNXIyNzF4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width = 50px> </picture> Tools -->
+
+### 🛠 Tools
 
 <p>
-  <img src="./icons/Figma-Dark.svg" width="40" />
-  <img src="./icons/Postman.svg" width="40" />
-  <img src="./icons/VSCode-Dark.svg" width="40" />
+  <img src="./assets/icons/Figma-Dark.svg" width="40" />
+  <img src="./assets//icons/Postman.svg" width="40" />
+  <img src="./assets/icons/VSCode-Dark.svg" width="40" />
 
+</p>
+
+### 🧩 Other Knowledge
+
+<p>
+  <img src="./icons/CPP.svg" width="40" />
 </p>
 
 ---
