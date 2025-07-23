@@ -12,7 +12,6 @@
   </a>
 </p>
 
-<div align="center">
   <h2>
     <picture>
       <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px" />
@@ -29,7 +28,6 @@
   <a href="mailto:mariamelsarag44@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariam-elsarag" alt="mariam-elsarag" /> </p>
 
@@ -59,7 +57,7 @@
   <img src="./icons/Bootstrap.svg" width="40" />
   <img src="./icons/Vite-Dark.svg" width="40" />
 </p>
-
+</br>
 ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmh1b21jN3Fwcnc3anltdm91dDN0NW8zYmg0NHJjZmxhdWx6Z3NhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif?raw=true" width = 50px> </picture> Backend
 
 <p>
@@ -69,6 +67,7 @@
   <img src="./icons/MongoDB.svg" width="40" />
 </p>
 
+</br>
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px> </picture> Tools
 
 <p>
@@ -77,6 +76,7 @@
   <img src="./icons/VSCode-Dark.svg" width="40" />
 
 </p>
+</br>
 
 ### 🧩 Other Knowledge
 
@@ -84,7 +84,7 @@
   <img src="./icons/CPP.svg" width="40" />
 </p>
 
----
+</br>
 
 <!-- GitHub Analytics Section -->
 
