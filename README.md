@@ -44,38 +44,21 @@
 ### 💻 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,redux,sass,html,css,js,bootstrap,vite,ts,pr" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,redux,sass,html,css,js,bootstrap,vite,ts" />
 </p>
-<div>
-  <img src="./assets/icons/React-Dark.svg" width="40" />
-  <img src="./assets/icons/TailwindCSS-Dark.svg" width="40" />
-  <img src="./assets/icons/Redux.svg" width="40" />
-  <img src="./assets/icons/Sass.svg" width="40" />
-  <img src="./assets/icons/HTML.svg" width="40" />
-  <img src="./assets/icons/CSS.svg" width="40" />
-  <img src="./assets/icons/JavaScript.svg" width="40" />
-  <img src="./assets/icons/Bootstrap.svg" width="40" />
-  <img src="./assets/icons/Vite-Dark.svg" width="40" />
-</div>
 
 ### 🧠 Backend
 
-<p>
-  <img src="https://www.svgrepo.com/show/373872/nestjs.svg" width="40" />
-  <img src="./assets/icons/NodeJS-Dark.svg" width="40" />
-  <img src="./assets/icons/ExpressJS-Dark.svg" width="40" />
-  <img src="./assets/icons/MongoDB.svg" width="40" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,mongodb" />
 </p>
 
 <!-- ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJuOGN3bnc5dHNsdDM1MG9jMXFteGV4YnB6NnhycXZmNXIyNzF4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width = 50px> </picture> Tools -->
 
 ### 🛠 Tools
 
-<p>
-  <img src="./assets/icons/Figma-Dark.svg" width="40" />
-  <img src="./assets//icons/Postman.svg" width="40" />
-  <img src="./assets/icons/VSCode-Dark.svg" width="40" />
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,postman,vscode" />
 </p>
 
 ### 🧩 Other Knowledge
