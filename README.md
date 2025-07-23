@@ -41,30 +41,34 @@
 
 ## 🚀 Tools & Technologies
 
-<p align="left" style="display: flex; align-items: center; gap:16px;">
+<div align="left" style="display: flex; align-items: center; gap:16px;">
+ <h3>
   <picture>
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="40px" />
   </picture>
-  &nbsp;<b>Frontend</b>
-  &nbsp;&nbsp;
-  <img src="./icons/React-Dark.svg" width="30" title="React" />
-  &nbsp;
-  <img src="./icons/TailwindCSS-Dark.svg" width="30" title="Tailwind CSS" />
-  &nbsp;
-  <img src="./icons/Redux.svg" width="30" title="Redux" />
-  &nbsp;
-  <img src="./icons/Sass.svg" width="30" title="Sass" />
-  &nbsp;
-  <img src="./icons/HTML.svg" width="30" title="HTML" />
-  &nbsp;
-  <img src="./icons/CSS.svg" width="30" title="CSS" />
-  &nbsp;
-  <img src="./icons/JavaScript.svg" width="30" title="JavaScript" />
-  &nbsp;
-  <img src="./icons/Bootstrap.svg" width="30" title="Bootstrap" />
-  &nbsp;
-  <img src="./icons/Vite-Dark.svg" width="30" title="Vite" />
-</p>
+  <b>Frontend</b>
+ </h3>
+
+&nbsp;&nbsp;
+<img src="./icons/React-Dark.svg" width="30" title="React" />
+&nbsp;
+<img src="./icons/TailwindCSS-Dark.svg" width="30" title="Tailwind CSS" />
+&nbsp;
+<img src="./icons/Redux.svg" width="30" title="Redux" />
+&nbsp;
+<img src="./icons/Sass.svg" width="30" title="Sass" />
+&nbsp;
+<img src="./icons/HTML.svg" width="30" title="HTML" />
+&nbsp;
+<img src="./icons/CSS.svg" width="30" title="CSS" />
+&nbsp;
+<img src="./icons/JavaScript.svg" width="30" title="JavaScript" />
+&nbsp;
+<img src="./icons/Bootstrap.svg" width="30" title="Bootstrap" />
+&nbsp;
+<img src="./icons/Vite-Dark.svg" width="30" title="Vite" />
+
+</div>
 
 ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmh1b21jN3Fwcnc3anltdm91dDN0NW8zYmg0NHJjZmxhdWx6Z3NhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif?raw=true" width = 50px> </picture> Backend
 
