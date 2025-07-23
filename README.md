@@ -73,7 +73,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics </b>
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/mariam-elsarag">
         <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mariam-elsarag&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=7A7ADB&icon_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40" />
         <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mariam-elsarag&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=7A7ADB&icon_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40" />
