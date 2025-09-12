@@ -50,7 +50,7 @@
 ### 🧠 Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,mongodb,postgres" />
 </p>
 
 <!-- ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJuOGN3bnc5dHNsdDM1MG9jMXFteGV4YnB6NnhycXZmNXIyNzF4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width = 50px> </picture> Tools -->
